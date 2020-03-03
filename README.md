@@ -19,6 +19,13 @@ Add some packages:
 conda install scikit-image jupyter matplotlib
 ```
 
+Clone this repository: 
+
+```
+git clone https://github.com/cbernet/LMA.git
+cd LMA
+```
+
 ## Run 
 
 ```
