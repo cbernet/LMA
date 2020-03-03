@@ -1,0 +1,29 @@
+# Mirror Defect Detection
+
+
+## Installation
+
+First [install Anaconda](https://thedatafrog.com/en/install-anaconda-data-science-python/)
+
+Create an environment for this work with the name you want, and activate it:
+
+```
+conda create -n lma python=3.7
+conda activate lma
+```
+
+Add some packages: 
+
+```
+conda install scikit-image jupyter matplotlib
+```
+
+## Run 
+
+```
+jupyter notebook  read_tiff.ipynb 
+```
+
+You can execute a cell by pressing shift+enter. 
+
+More instructions in the notebook itself, which you can also find [here](read_tiff.ipynb).
